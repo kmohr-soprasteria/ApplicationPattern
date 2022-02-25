@@ -12,6 +12,9 @@ Issues shall be used not just for bug tracking, but also for feature definition 
 ### How to write issues
 Follow the recommendations and standards below for sufficient issue creation and handling.  
 
+|![issues_3](https://user-images.githubusercontent.com/57349523/155708237-833c98f0-73ad-4f61-a770-d3dfca0f5017.jpg)|
+|---|
+
 **What to include**
 * **Context**: explain the condition that led to writing the issue
 * **Problem or idea**: the context should lead to an idea or problem etc.
@@ -54,4 +57,4 @@ Follow the recommendations and standards below for sufficient issue creation and
 **Issue templates**
 
 
-![issues_3](https://user-images.githubusercontent.com/57349523/155708237-833c98f0-73ad-4f61-a770-d3dfca0f5017.jpg)
+

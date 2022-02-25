@@ -55,10 +55,12 @@ Follow the recommendations and standards below for sufficient issue creation and
 ***
 
 **Issue templates**  
-When create new issues in GitHub from the "Issues" tab and pressing button "New issue" a list with available issue templates to choose from appears. Select the one which matches the issue type. 
-
+When create new issues in GitHub from the "Issues" tab and pressing button "New issue" a list with available issue templates to choose from appears. Select the one which matches the issue type.  
 |![issues_5](https://user-images.githubusercontent.com/57349523/155741109-abc7bdb2-8b4e-4d2a-8e0c-634b92621638.jpg)|
 |---|
 
 After pressing the "Get started" button for one of the templates a new page with the template content is displayed. To create the issue sufficiently follow the outlined structure and add content as described in the template.  
+|![issues_6](https://user-images.githubusercontent.com/57349523/155742004-a976732b-d92b-4c85-a173-e00892fa97eb.jpg)|
+|---|
+
  

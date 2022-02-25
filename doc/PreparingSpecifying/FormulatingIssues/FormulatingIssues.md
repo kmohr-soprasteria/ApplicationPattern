@@ -56,5 +56,6 @@ Follow the recommendations and standards below for sufficient issue creation and
 
 **Issue templates**
 
+![issues_5](https://user-images.githubusercontent.com/57349523/155741109-abc7bdb2-8b4e-4d2a-8e0c-634b92621638.jpg)
 
 

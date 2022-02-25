@@ -53,4 +53,5 @@ Follow the recommendations and standards below for sufficient issue creation and
 
 **Issue templates**
 
-![issues_3](https://user-images.githubusercontent.com/57349523/155708010-e49eea90-06b7-4779-be05-842c0f69fe48.jpg)
+
+![issues_3](https://user-images.githubusercontent.com/57349523/155708237-833c98f0-73ad-4f61-a770-d3dfca0f5017.jpg)

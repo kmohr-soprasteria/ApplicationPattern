@@ -6,7 +6,7 @@ Issues shall be used not just for bug tracking, but also for feature definition 
 
 ### What is an issue?
 * **Issue queues should mirror your thought process**: structure your ideas, with others or alone
-* **Issues should focus on ideas, problems and solutions: they are not activity trackers**: do not include comments on every actitivy here
+* **Issues should focus on ideas, problems and solutions: they are not activity trackers**! Do not include comments on every activity here
 * **The issue queue is where the real collaboration is done**: involve all relevant people here
 
 ### How to write issues

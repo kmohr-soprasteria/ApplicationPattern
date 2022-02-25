@@ -52,5 +52,5 @@ Follow the recommendations and standards below for sufficient issue creation and
 ***
 
 **Issue templates**
-![issues_1](https://user-images.githubusercontent.com/57349523/155707674-0ea4afcf-0f27-485b-b1d5-73b9dfe1c193.jpg)
-![issues_2](https://user-images.githubusercontent.com/57349523/155707685-ff649c62-6ac9-496b-b17c-d8b435e33fd3.jpg)
+
+![issues_3](https://user-images.githubusercontent.com/57349523/155708010-e49eea90-06b7-4779-be05-842c0f69fe48.jpg)

@@ -9,9 +9,14 @@ This document provides guidance on
 * how to create references on existing documentation like the underlying issue in the commit messages
 
 
+
+
+
+
+
 **Format**
 ```
-    Subject line: short summary (72 characters or less)
+    Subject line: short summary (50 characters or less)
     
     Message body: 
     * separated from the subject line by a blank line
@@ -28,8 +33,9 @@ This document provides guidance on
 * do not end the subject line with a dot
 * capitalize the subject line and each paragraph
 * use the imperative mood in the subject line
-* wrap lines at 72 characters
-* use the body to explain what and why something has been done. In most cases details about how a change has been made can be left out.
+* limit subject line to 50 characters or less (GitHub and some IDEs truncate commit messages in lists to 50 characters)
+* wrap (body) lines at 72 characters
+* use the body to explain *what* and *why* something has been done vs. *how* (in most cases details about how a change has been made can be left out)
 
 **Information on commit messages**
 * describe why a change is being made
@@ -43,4 +49,66 @@ This document provides guidance on
 
 Good examples for each of the above points can be found [here](https://wiki.openstack.org/wiki/GitCommitMessages#Information_in_commit_messages).
 
-**References in commit messages**
+**References in commit messages**  
+If the commit refers to an issue, add this information to the commit message:
+* in the subject line: as \[#issue-number\] (i.e. as link to the actual issue)
+* in the body as "Fixes #issue-number"
+
+*Example*
+```
+    Update commitMessage guide [#28]
+
+    This commit adds detailed information 
+    on how to formulate commit messages.
+
+    Resolves: #28
+    See also: #<issue-num1>, #<issue-num2>
+```
+
+If other documentation pages from inside GitHub or external pages should be referenced, these can be linked as follows:
+```
+\[add link text in square brackets\]\(add link URL in parenthesis\).
+```
+
+**Subject line keywords**  
+If possible start the subject line with one of the following words for consistency:
+* Add 
+* Fix
+* Merge 
+* Polish
+* Refactor
+* Release
+* Remove
+* Revert
+* Update
+
+**Recap - Example**
+```
+    Summarize changes in around 50 characters or less
+
+    More detailed explanatory text, if necessary. Wrap it to about 72
+    characters or so. In some contexts, the first line is treated as the
+    subject of the commit and the rest of the text as the body. The
+    blank line separating the summary from the body is critical (unless
+    you omit the body entirely); various tools like `log`, `shortlog`
+    and `rebase` can get confused if you run the two together.
+
+    Explain the problem that this commit is solving. Focus on why you
+    are making this change as opposed to how (the code explains that).
+    Are there side effects or other unintuitive consequences of this
+    change? Here's the place to explain them.
+
+    Further paragraphs come after blank lines.
+
+    - Bullet points are okay, too
+
+    - Typically a hyphen or asterisk is used for the bullet, preceded
+    by a single space, with blank lines in between, but conventions
+    vary here
+
+    If you use an issue tracker, put references to them at the bottom,
+    like this:
+
+    Resolves: #123
+    See also: #456, #789
+```

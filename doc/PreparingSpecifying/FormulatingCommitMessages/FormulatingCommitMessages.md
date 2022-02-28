@@ -1,11 +1,11 @@
 # Formulating Commit Messages
 
-|![commit_3](https://user-images.githubusercontent.com/57349523/155990223-e85bd072-25e7-4650-971a-029f401d908a.jpg)|
-|---|
-
 Development of documentation, specification and code shall be collaborative.  
 This includes reviewing artifacts before consolidating them into the shared base. Such review is not just "additional work", but also time critical, because the shared base might change between MergeRequest and MergeCommit.  
 Well formulated CommitMessages must support efficiently reviewing the contributed artifact.
+
+|![commit_3](https://user-images.githubusercontent.com/57349523/155990223-e85bd072-25e7-4650-971a-029f401d908a.jpg)|
+|---|
 
 This document provides guidance on 
 * how to formulate concise and comprehensive headlines

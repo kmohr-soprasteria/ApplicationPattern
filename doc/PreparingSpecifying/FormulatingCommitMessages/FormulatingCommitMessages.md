@@ -115,5 +115,5 @@ The commit message dialogue differs slightly between GitHub and VSCode as below 
 
 |**GitHub**|**VSCode**|
 |---|---|
-|The subject line and body have own text fields.|There is only a single textfield (add linebreaks like in any regular editor to separate subject line and body).|
+|The subject line and body have own text fields.|There is only a single textfield (add linebreaks like <br>in any regular editor to separate subject line and body).|
 |![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)|![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)|

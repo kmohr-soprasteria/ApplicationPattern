@@ -11,6 +11,8 @@ This document provides guidance on
 * how to formulate concise and comprehensive headlines
 * how to create references on existing documentation like the underlying issue in the commit messages
 
+![commit_4](https://user-images.githubusercontent.com/57349523/155999192-811bc26b-cbf6-4a8d-83bf-ff8a8a44890e.jpg)
+
 **Format**
 ```
     Subject line: short summary (50 characters or less)

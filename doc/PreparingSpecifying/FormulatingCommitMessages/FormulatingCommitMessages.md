@@ -1,5 +1,8 @@
 # Formulating Commit Messages
 
+|![commit_3](https://user-images.githubusercontent.com/57349523/155990223-e85bd072-25e7-4650-971a-029f401d908a.jpg)|
+|---|
+
 Development of documentation, specification and code shall be collaborative.  
 This includes reviewing artifacts before consolidating them into the shared base. Such review is not just "additional work", but also time critical, because the shared base might change between MergeRequest and MergeCommit.  
 Well formulated CommitMessages must support efficiently reviewing the contributed artifact.
@@ -7,12 +10,6 @@ Well formulated CommitMessages must support efficiently reviewing the contribute
 This document provides guidance on 
 * how to formulate concise and comprehensive headlines
 * how to create references on existing documentation like the underlying issue in the commit messages
-
-
-
-
-
-
 
 **Format**
 ```
@@ -82,7 +79,7 @@ If possible start the subject line with one of the following words for consisten
 * Revert
 * Update
 
-**Recap - Example**
+**Recap**
 ```
     Summarize changes in around 50 characters or less
 
@@ -113,7 +110,11 @@ If possible start the subject line with one of the following words for consisten
     See also: #456, #789
 ```
     
-![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)
-![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)
-![commit_3](https://user-images.githubusercontent.com/57349523/155990223-e85bd072-25e7-4650-971a-029f401d908a.jpg)
+**VisualStudioCode (VSCode) vs. GitHub commit message**  
+If changes are applied in GitHub directly, the subject line and body have own text fields:  
+|![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)|
+|---|
 
+This is not the case for VSCode. There only one textfield is available. Text can be added as in any editor (e.g. add linebreaks via return at the end of a line.):  
+|![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)|
+|---|

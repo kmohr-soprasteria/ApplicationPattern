@@ -112,3 +112,9 @@ If possible start the subject line with one of the following words for consisten
     Resolves: #123
     See also: #456, #789
 ```
+    
+![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)
+![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)
+![commit_3](https://user-images.githubusercontent.com/57349523/155980719-605fa1e0-cb8a-45dd-b859-b09c4b30583d.png)
+
+    

@@ -111,10 +111,8 @@ If other documentation pages from inside GitHub or external pages should be refe
 ```
     
 **VisualStudioCode (VSCode) vs. GitHub commit message**  
-If changes are applied in GitHub directly, the subject line and body have own text fields:  
-|![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)|
-|---|
+The commit message dialogue differs slightly for VSCode and GitHub as below screenshots show.
 
-This is not the case for VSCode. There only one textfield is available. Text can be added as in any editor (e.g. add linebreaks via return at the end of a line.):  
-|![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)|
-|---|
+|**VSCode**|**GitHub**|
+|---|---|
+|If changes are applied in GitHub directly, the subject line and body have own text fields: <br>![commit_2](https://user-images.githubusercontent.com/57349523/155980718-cbbb2d14-89c7-4938-9e15-70253f7252e3.jpg)|This is not the case for VSCode. There only one textfield is available. Text can be added as in any editor (e.g. add linebreaks via return at the end of a line.):<br>![commit_1](https://user-images.githubusercontent.com/57349523/155980716-30b63626-4f73-4268-9851-cbefc6d24619.jpg)
